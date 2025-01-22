@@ -1,8 +1,8 @@
 # Praagya's First CS193 Homework
 
 ## Some things I like about CS193
--It's a fun and stress free class, but still teaches me important skills to succceed in Computer Science.
--The professors andd TAs are all very nice!
+- It's a fun and stress free class, but still teaches me important skills to succceed in Computer Science.
+- The professors andd TAs are all very nice!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
